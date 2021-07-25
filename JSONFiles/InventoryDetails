@@ -1,0 +1,45 @@
+{
+  "Rice": [
+    {
+      "Type": "Rice",
+      "Name": "goldenRice",
+      "TotalWeight": 2,
+      "PricePerKg": 60
+
+    },
+    {
+      "Type": "Rice",
+      "Name": "Dawath",
+      "TotalWeight": 3,
+      "PricePerKg": 50
+    }
+  ],
+  "Wheats": [
+    {
+      "Type": "Wheats",
+      "Name": "ChakkiFresh",
+      "TotalWeight": 5,
+      "PricePerKg": 35
+    },
+    {
+      "Type": "Wheats",
+      "Name": "Soft white whe",
+      "TotalWeight": 6,
+      "PricePerKg": 35
+    }
+  ],
+  "Pulses": [
+    {
+      "Type": "Pulses",
+      "Name": "mung beans",
+      "TotalWeight": 15,
+      "PricePerKg": 65
+    },
+    {
+      "Type": "Pulses",
+      "Name": "green peas",
+      "TotalWeight": 16,
+      "PricePerKg": 15
+    }
+  ]
+}
