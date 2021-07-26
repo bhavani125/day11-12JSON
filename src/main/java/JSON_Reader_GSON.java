@@ -34,6 +34,8 @@ public class JSON_Reader_GSON {
 
             long ricePrice = totalWeight * pricePerKg;
             System.out.println("total price: "   +  ricePrice);
+            System.out.println("\n");
+
         }
         //details of wheat
         System.out.println("\n Details of wheat are:");
@@ -50,6 +52,7 @@ public class JSON_Reader_GSON {
 
             long wheatPrice = totalWeight * pricePerKg;
             System.out.println("total price: "   +  wheatPrice);
+            System.out.println("\n");
         }
         // details of pulses
         System.out.println("\nDetails of pulses are:");
@@ -66,6 +69,7 @@ public class JSON_Reader_GSON {
 
             long pulsesPrice = totalWeight * pricePerKg;
             System.out.println("total price: "   +  pulsesPrice);
+            System.out.println("\n");
         }
     }
     //main method
